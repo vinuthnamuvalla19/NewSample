@@ -52,7 +52,6 @@ public class EcommerceShoppingFlowTest extends BaseTest {
     public void addProductsToCart() throws InterruptedException {
             homePage.navigateToHomePage();
             homePage.clickSignIn();
-
             // Utilizes the email and password generated during the registration process.
             loginPage.enterRegisteredEmail(getRandomEmail);
             loginPage.enterRegisteredPassword(getRandomPassword);
