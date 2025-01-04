@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-04T16:49:02 IST" name="Default suite" finished-at="2025-01-04T16:49:18 IST" duration-ms="16144">
+    <groups>
+    </groups>
+    <test started-at="2025-01-04T16:49:02 IST" name="Default test" finished-at="2025-01-04T16:49:18 IST" duration-ms="16144">
+      <class name="com.magento.softwaretestingboard.tests.EcommerceShoppingFlowTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.magento.softwaretestingboard.tests.EcommerceShoppingFlowTest@1500b2f3]" started-at="2025-01-04T16:49:02 IST" name="setUp" finished-at="2025-01-04T16:49:06 IST" duration-ms="3505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="registerAccount()[pri:1, instance:com.magento.softwaretestingboard.tests.EcommerceShoppingFlowTest@1500b2f3]" started-at="2025-01-04T16:49:06 IST" name="registerAccount" finished-at="2025-01-04T16:49:18 IST" duration-ms="12178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.magento.softwaretestingboard.tests.EcommerceShoppingFlowTest@1500b2f3]" started-at="2025-01-04T16:49:18 IST" name="tearDown" finished-at="2025-01-04T16:49:18 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.magento.softwaretestingboard.tests.EcommerceShoppingFlowTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
